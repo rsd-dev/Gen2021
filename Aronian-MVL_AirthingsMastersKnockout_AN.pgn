@@ -1,0 +1,56 @@
+[Event "Airthings Masters KO 2020"]
+[Site "Online"]
+[Date "2021.01.01"]
+[Round "2.2"]
+[White "Aronian, Levon"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "D80"]
+[WhiteElo "2781"]
+[BlackElo "2784"]
+[PlyCount "225"]
+[EventDate "2020.12.26"]
+[EventType "k.o."]
+[EventCountry "NET"]
+
+
+{D80: Grünfeld} 1. d4 Nf6 2. c4 g6 3. Nc3 d5
+4. Bg5 Ne4 5. Bf4 Nxc3 6. bxc3 c5 7. cxd5 $146 (7. e3 Nc6 8. Nf3 cxd4 9. cxd4
+Qa5+ 10. Qd2 dxc4 11. Bxc4 Bd7 12. Ne5 Qxd2+ 13. Kxd2 Nxe5 14. Bxe5 f6 15. Bg3
+b5 16. Bd5 Rc8 17. Rhc1 e6 18. Bb7 Rxc1 19. Rxc1 Bb4+ 20. Ke2 Ke7 21. e4 Ba5 {
+Tempone,M (2423)-Alonso,S (2355) Buenos Aires 1999 1/2-1/2}) 7... Qxd5 8. e3
+cxd4 {White is slightly better.} 9. Qxd4 Qxd4 10. cxd4 Nc6 11. Nf3 e6 12. Rb1
+f6 13. h4 (13. Bc4 $16) 13... Bb4+ $14 14. Kd1 Be7 15. Bc4 Na5 16. Bd3 Bd7 ({
+Black should play} 16... O-O $14) 17. Ke2 $16 O-O (17... Rc8 $142) 18. e4 Rac8
+(18... b6 $16) 19. Bd2 $18 b6 20. Bxa5 bxa5 21. Rb7 Rfd8 22. Rxa7 Rb8 $2 (22...
+Ra8 23. Rb7 Rab8) 23. Rc1 Rb2+ 24. Rc2 Rxc2+ 25. Bxc2 Bb4 26. Bb3 Kf8 27. e5
+fxe5 28. Nxe5 Be8 29. Ke3 Bc3 30. Nf3 (30. Rxh7 Bxd4+ 31. Kf4 Bxf2 $16) 30...
+Bd7 (30... Bc6 $142 31. Rxh7 Bxf3) 31. Rc7 Bb2 32. Ng5 h6 33. Nh7+ Ke8 34. Bc2
+Rc8 35. Nf6+ Ke7 36. Rxc8 (36. Rxd7+ $142 Kxf6 37. Bb3) 36... Bxc8 {Endgame
+KBB-KBN} 37. Ng4 h5 $2 (37... Bc1+ 38. Kf3 Bb7+ 39. Be4 Ba6) 38. Ne5 Bc1+ 39.
+Ke2 g5 40. hxg5 Bxg5 41. f4 Bf6 42. g3 Bb7 43. Ke3 (43. Bb3 $18 {is the
+precise move to win.}) 43... Bd5 $16 44. a4 (44. a3 $1 $16) 44... Kd6 (44...
+Kd8 $1 $14) 45. Nf7+ $1 Ke7 46. Ng5 Bc6 (46... Ba8 $142) 47. Bd1 Bg7 (47... Kd6
+$16) 48. Nf3 $18 ({Don't play} 48. Bxh5 $6 Bxa4 49. Ne4 Bc2 $16) 48... Bf6 49.
+Ne5 Be8 50. Nc4 h4 51. gxh4 Bxh4 52. Nxa5 Be1 53. Nb7 Bc6 54. Nc5 Bb4 55. Bf3
+Be8 56. Be2 (56. Bd1 $18) 56... Bc6 $2 (56... Bxc5 $16 {might work better.} 57.
+dxc5 Bxa4) 57. Bf3 (57. Bb5 $142 Bd5 58. Nd3) 57... Be8 58. Kd3 (58. Bd1 $18)
+58... Kf6 $2 (58... Bxc5 $16 {is more resistant.} 59. dxc5 Bxa4) 59. Kc4 Ba5
+60. Bg4 Ke7 61. Kd3 $2 (61. Bxe6 {Strongly threatening f5.} Bxa4 62. Nxa4 Kxe6
+63. Nc3) 61... Bb6 62. Bd1 $1 Bc7 63. Ke3 Ba5 $2 (63... Bb6 64. Be2 Bc6) 64.
+Bb3 (64. Be2 $142) 64... Bb4 65. Ke4 Kf6 66. Bc4 $2 ({White should try} 66. Ke3
+$18) 66... Bc6+ $1 $11 67. Ke3 {Hoping for Bb5.} Ke7 $2 (67... Bxc5 $11 {
+and Black stays safe.} 68. dxc5 Bxa4) 68. Bb5 $18 ({Weaker is} 68. Nxe6 Bxa4
+69. Nc5 Bc6 $16) 68... Bd5 69. Nd3 Ba5 70. Ne5 Bc7 71. Kd3 Kf6 72. Bc6 Bb3 73.
+Nd7+ Kf5 74. Nc5 Ba2 75. Kc3 $2 ({White has to play} 75. Na6 $1 $18 Ba5 76. Ke3
+) 75... Kxf4 $11 76. Kb2 Bc4 $1 77. Kc3 Ba2 78. Nb7 Bb6 (78... Ke3 $11) 79. a5
+$16 Ba7 $2 (79... Bc7 $14) 80. Nd6 $1 $18 e5 81. d5 $2 (81. Nb5 $1 $18 {
+and the rest is easy.} exd4+ 82. Kb2) 81... e4 $2 {[#]} (81... Bd4+ $16 82. Kb4
+e4) 82. Nxe4 $1 Ke5 (82... Kxe4 83. d6+) 83. d6 {Threatens to win with d7.} Be6
+{[#]} 84. Kd3 $1 Bb8 85. d7 Bc7 86. a6 Bxd7 {White mates.} 87. Bxd7 Bb6 88. Bc6
+Bg1 89. Kc4 Ba7 90. Nc3 Bb6 91. Nb5 Ke6 92. a7 Bxa7 93. Nxa7 Kd6 94. Bd5 Ke5
+95. Kc5 Kf5 96. Kd4 Kf4 97. Nc6 Kf5 98. Ne5 Kf6 99. Be4 Ke6 100. Nc4 Kf6 101.
+Kd5 Ke7 102. Bf5 Kf6 103. Ke4 Ke7 104. Ke5 Kf7 105. Nd6+ Kg7 106. Ke6 Kg8 107.
+Kf6 Kh8 108. Nf7+ Kg8 109. Bg6 Kf8 110. Bh7 Ke8 111. Ne5 Kd8 112. Ke6 Kc7 113.
+Nd7 1-0
+
