@@ -1,0 +1,42 @@
+[Event "Chess Festival Cracovia A 2020"]
+[Site "Krakow"]
+[Date "2021.01.04"]
+[Round "9.1"]
+[White "Donchenko, Alexander"]
+[Black "Gumularz, Szymon"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2654"]
+[BlackElo "2516"]
+[PlyCount "79"]
+[EventDate "2020.12.28"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "POL"]
+
+{E05: Open Catalan: 5 Nf3 Be7} 1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O
+O-O 6. d4 dxc4 7. Qc2 a6 8. a4 Bd7 9. Rd1 Bc6 10. Bg5 b5 11. Bxf6 {The
+position is equal.} Bxf6 ({Much worse is} 11... gxf6 12. d5 $1 $16) 12. Nc3 Qe8
+13. h4 (13. d5 exd5 14. Nd4 Qe5 (14... b4 15. Nxd5 Bxd5 16. Bxd5 c6 17. Bg2 c3
+18. bxc3 bxc3 19. Qxc3 Ra7 20. Rab1 Qc8 21. Qc5 Rc7 22. Nf5 g6 23. Qd6 Nd7 24.
+Ne3 Be5 25. Qd3 Bg7 26. Qc2 Ne5 27. h3 Re8 28. Rb3 h5 29. f4 {Erdos,V (2612)
+-Gumularz,S (2473) Skopje 2019 1-0 (39)}) 15. e4 dxe4 16. Nxe4 Bxe4 17. Bxe4
+Ra7 18. Nf3 Qe7 19. Bxh7+ Kh8 20. Rd5 g6 21. Re1 Qxe1+ 22. Nxe1 c6 23. Rd6 Be5
+24. Bxg6 Bxd6 25. Bf5 Re8 26. Qd2 Be5 27. Nf3 Bg7 {Jacobson,B (2418)
+-Khamrakulov,D (2500) New York 2019 1-0 (33)}) 13... g6 14. e4 Bg7 $146 (14...
+Nd7 15. axb5 axb5 16. Rxa8 Qxa8 17. d5 exd5 18. exd5 Bb7 19. Nxb5 Qa5 20. Nc3
+Bxc3 (20... Nb6 21. d6 cxd6 22. Rxd6 Be7 23. Rd1 Bf6 24. Rd6 Be7 25. Rd1 Bf6
+26. Rd6 Be7 {1/2-1/2 (26) Mamedyarov,S (2808)-So,W (2778) Stavanger 2018}) 21.
+Qxc3 Qxc3 22. bxc3 Nb6 23. Ne5 Re8 24. Ng4 Kg7 25. h5 gxh5 26. Ne3 Rd8 27. Rd4
+Ba6 28. Bf1 Bb5 29. d6 {Vitiugov,N (2730)-Navara,D (2741) Linares 2018 1/2-1/2
+(60)}) 15. d5 exd5 16. exd5 Bb7 17. Re1 Qd8 18. Rad1 Nd7 19. axb5 Nb6 ({
+Black should try} 19... axb5 $11 20. Nxb5 Ra5) 20. bxa6 $14 Rxa6 21. Ne5 Ra5 (
+21... Re8 $11 {is superior.} 22. Nc6 Bxc6 23. dxc6 Rxe1+ 24. Rxe1 Ra8) 22. Nc6
+Bxc6 23. dxc6 Qf6 24. Rd2 Re5 25. Rxe5 Qxe5 26. Re2 $36 {White is more active.}
+Qc5 27. Qd2 Qa5 $2 {[#]} ({Black should play} 27... Rc8 $14) 28. Qf4 $1 $18
+Bxc3 29. bxc3 Qxc3 30. Qxc7 Qd4 (30... Qd3 {might work better.} 31. Bf1 Qd4)
+31. Qe5 Qd3 (31... Qxe5 32. Rxe5 Kg7) 32. h5 {White is clearly winning.} gxh5 {
+[#]} (32... Qf5 $142 33. Qxf5 gxf5) 33. Be4 $3 {White threatens Qg5+ and mate.}
+Qd1+ 34. Kg2 {Intending Qg5+ and mate.} f5 35. Bf3 h4 36. Qe6+ Kh8 37. c7 {
+Threatening mate with Qh6.} Qd4 38. Qh6 Qg7 (38... Qf6 $142 39. Qxf6+ Rxf6 40.
+Re8+ Kg7 41. gxh4 Rf8) 39. Qxb6 hxg3 40. fxg3 1-0
