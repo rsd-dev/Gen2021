@@ -1,0 +1,50 @@
+[Event "5th Vergani Cup January 2021"]
+[Site "Bassano del Grappa"]
+[Date "2021.01.06"]
+[Round "6.5"]
+[White "Nguyen, Thai Dai Van"]
+[Black "Beerdsen, Thomas"]
+[Result "1-0"]
+[WhiteElo "2571"]
+[BlackElo "2479"]
+[PlyCount "97"]
+[EventDate "2021.01.03"]
+[EventType "swiss"]
+[EventCountry "ITA"]
+[Tiebreak "Median1 Buchholz+Cut2 Buchholz"]
+
+{D31: Queen's Gambit Declined: Semi-Slav without ...Nf6 (+ Marshall Gambit and
+Noteboom) and Exchange Variation lines without ...Nf6} 1. d4 d5 2. c4 e6 3. Nc3
+a6 4. cxd5 exd5 5. Qb3 Bd6 $146 (5... c6 6. Nf3 (6. e4 dxe4 7. Bc4 Qe7 8. a4
+Nf6 9. Nge2 Bf5 10. O-O Bg6 11. f4 exf3 12. Rxf3 Qd7 13. Nf4 Bd6 14. Re3+ Kf8
+15. Rf3 a5 16. h3 Na6 17. Nxg6+ hxg6 18. Ne4 Re8 19. Nxd6 Qxd6 20. Bf4 Qxd4+ {
+Schlechter,C-Janowski,D Monte Carlo 1902 1-0}) 6... Bd6 7. Bg5 Be7 (7... Nf6 8.
+e4 dxe4 9. Nxe4 Be7 10. Nxf6+ Bxf6 11. Qe3+ Be6 12. Bc4 O-O 13. Bxe6 Re8 14.
+Bxf6 gxf6 15. O-O fxe6 16. Rfe1 Qd5 17. Qh6 Nd7 18. Re3 Re7 19. Rae1 Rae8 20.
+b3 Rg7 21. Nh4 Ree7 22. Qf4 {Pillsbury,H-Janowski,D London 1899 1-0 (72)}) 8.
+Bf4 Nf6 9. e3 Nbd7 10. Bd3 O-O 11. O-O Nh5 12. Qc2 Nxf4 13. Bxh7+ Kh8 14. exf4
+g6 15. Bxg6 fxg6 16. Qxg6 Rf6 17. Qh5+ Kg7 18. Ng5 Nf8 19. g3 Bf5 20. Rfe1 {
+Lasker,E-Janowski,D London 1899 1-0 (56)}) (5... c5 6. Nxd5 (6. Nf3 Nf6 7. Bg5
+Nc6 8. dxc5 d4 9. O-O-O Bxc5 10. e3 Be6 11. Qxb7 Na5 12. Bxf6 Nxb7 13. Bxd8
+dxc3 14. Bc7 O-O 15. Be5 cxb2+ 16. Kxb2 Na5 17. Rc1 Rfc8 18. Bd3 f6 19. Bd4 Be7
+20. Ka1 Bd5 {Garriga Cazorla,P (2495)-Valenzuela Gomez,F (2388) Barcelona 2019
+0-1 (35)}) 6... Nc6 7. Nf3 cxd4 8. e4 dxe3 9. Qxe3+ Be6 10. Nf4 Bb4+ 11. Nd2
+Qd4 12. Nxe6 fxe6 13. a3 Qxe3+ 14. fxe3 Bxd2+ 15. Bxd2 Rc8 16. Bc4 Ke7 17. Ke2
+Nf6 18. Rac1 Rhd8 19. Rhd1 Rd7 20. Ba2 {Yilmaz,M (2618)-Heberla,B (2534) Konya
+2019 1-0 (31)}) 6. Qxd5 Nf6 7. Qb3 c5 8. Be3 {White is better.} cxd4 9. Bxd4
+Nc6 10. Nf3 (10. Bb6 $14 {should be considered.} Qe7 11. e3) 10... Nxd4 $11 11.
+Nxd4 O-O (11... Bxh2 $1 $11 {keeps the balance.} 12. O-O-O Bd6) 12. e3 $16 Be5
+(12... Qc7 $1 $14 {is more appropriate.}) 13. Rd1 $1 Qc7 14. Be2 Rd8 15. h3 (
+15. Qc4 $16) 15... Bxd4 $14 16. exd4 Be6 $1 17. Qa3 Qb6 (17... b5 $14) 18. O-O
+$1 $16 Rxd4 19. Rxd4 (19. Na4 $1 $16 Qb4 20. Rxd4 Qxd4 21. Rd1) 19... Qxd4 $14
+20. Rd1 Qb6 21. Bf3 Re8 22. Na4 Qc7 23. Qc5 Qb8 24. Nc3 b5 25. b3 h6 26. Qd6
+Qxd6 27. Rxd6 Rc8 28. Ne2 a5 $1 29. Ra6 a4 30. bxa4 bxa4 31. Rxa4 Rc2 32. Ra8+
+Kh7 33. a4 Rc4 (33... Bd5 $14 34. Bxd5 Nxd5) 34. a5 (34. Bb7 $16) 34... Bd5 $1
+35. Bxd5 Nxd5 {Endgame KRN-KRN} 36. Ra7 Re4 ({Black should play} 36... Ra4 $14)
+37. Ng3 $1 $16 ({Worse is} 37. Rxf7 Rxe2 38. Rf5 (38. a6 $2 Ra2 $19) 38... Nf6
+$17) 37... Re1+ 38. Kh2 Kg6 {[#]} 39. Rd7 (39. Ra6+ $1 $16 f6 40. Rd6) 39...
+Nf6 $14 40. Rd6 Kg5 $2 ({Better is} 40... Ra1 $14) 41. a6 $18 Ra1 42. Ne2 Ne4 {
+[#]} 43. f4+ $2 (43. h4+ $1 $18 Kf5 (43... Kxh4 44. Rd4) 44. Rd5+ Kg6 45. f3)
+43... Kh4 $2 (43... Kh5 $1 $14 44. Rb6 Ra4) 44. Rc6 g6 $2 (44... Nf2 45. g3+
+Kh5) 45. Nd4 {White threatens Nf3+ and mate.} Ra2 46. a7 Nf2 {[#]} 47. Nf5+ $1
+{White mates.} Kh5 (47... gxf5 48. Rxh6#) 48. Ng7+ Kh4 49. g3# 1-0
