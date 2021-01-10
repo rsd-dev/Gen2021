@@ -1,0 +1,41 @@
+[Event "11th A.Margaryan Memorial 2021"]
+[Site "Yerevan"]
+[Date "2021.01.10"]
+[Round "2.2"]
+[White "Daneshvar, Bardiya"]
+[Black "Sargsyan, Anna M."]
+[Result "1-0"]
+[WhiteElo "2399"]
+[BlackElo "2402"]
+[PlyCount "69"]
+[EventDate "2021.01.09"]
+[EventType "tourn"]
+[EventCountry "ARM"]
+[Tiebreak "Number of wins+Koya+Number of black wins"]
+[SourceTitle "playchess.com"]
+[Source "ChessBase"]
+[SourceQuality "1"]
+
+{D93: Grünfeld: 4 Nf3 Bg7 5 Bf4 0-0 6 e3} 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4
+Bg7 5. e3 O-O 6. Rc1 c6 7. Nf3 h6 (7... Be6 $14) (7... b6 8. Be2 Bb7 9. O-O e6
+10. h3 Nbd7 11. b4 dxc4 12. Bxc4 Qe7 13. b5 Rfc8 14. bxc6 Rxc6 15. Qb3 Rcc8 16.
+Nb5 Ne8 17. a4 Bf8 18. Bg5 Ndf6 19. Ne5 Kg7 20. Be2 a6 21. Rxc8 Rxc8 22. Na7 {
+Nikolic,P (2657)-Jakovljevic,V (2461) Sarajevo 2007 1-0 (39)}) (7... a6 8. Bd3
+Bg4 9. h3 Bxf3 10. Qxf3 dxc4 11. Bxc4 Nbd7 12. O-O Qa5 13. Rfd1 e5 14. Bh2 exd4
+15. exd4 Qb4 16. Bb3 a5 17. Na4 Rfe8 18. Bf4 Nd5 19. Bxd5 cxd5 20. b3 Bxd4 21.
+a3 Bxf2+ 22. Kxf2 {Schwarz,M (2485)-Tomczak,J (2547) Germany 2011 1-0 (31)}) 8.
+Qb3 $146 (8. h3 Be6 9. Ne5 Nbd7 10. Qb3 Nxe5 11. Bxe5 Qb6 12. Bxf6 Bxf6 13.
+cxd5 Qxb3 14. axb3 Bxd5 15. Nxd5 cxd5 {1/2-1/2 (15) Szeberenyi,A (2357)-Nagy,B
+(2349) Budapest 2005}) 8... e6 (8... Qa5 $14 {should be considered.}) 9. Bd3
+$16 Re8 {White is better.} 10. h3 Nbd7 11. O-O b6 12. Qd1 (12. e4 $16) 12...
+Bb7 $14 13. b4 ({White should play} 13. Re1 $16) 13... a5 14. cxd5 exd5 (14...
+axb4 $11 15. dxc6 Bxc6) 15. b5 {With the idea bxc6.} c5 16. dxc5 bxc5 17. Na4
+Qe7 18. Bb1 ({White should try} 18. b6) 18... Rac8 19. Nd2 (19. Re1 $11) 19...
+c4 $17 20. Nf3 Nh5 21. Bh2 Qb4 22. Nd4 $1 Bxd4 23. exd4 c3 {[#]} (23... Qxb5
+$11 {keeps the balance.} 24. Bc2 Bc6) 24. Qb3 (24. Bc2 $1 $16) 24... Qxd4 $15 {
+And now ...Nc5 would win.} 25. Nxc3 Nf4 26. Qd1 Qf6 27. Qd2 {[#]} Nxg2 28. Kxg2
+{Threatens to win with f3.} Ne5 (28... d4+ $11 29. Ne4 Rxc1 30. Rxc1 Rxe4 31.
+Bxe4 Bxe4+ 32. Kf1 g5) 29. Qf4 $18 ({Stronger than} 29. Qxh6 Rxc3 30. Rxc3 d4+
+31. Rc6 Nxc6 $17) 29... Qg7 30. f3 Nc4 $2 (30... Rc4 {is a better defense.})
+31. Bg1 {White is clearly winning.} g5 32. Qd4 Ne5 33. Ne2 Rxc1 34. Rxc1 Qf6
+35. Rc3 1-0
