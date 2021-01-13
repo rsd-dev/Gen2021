@@ -1,0 +1,35 @@
+[Event "11th A.Margaryan Memorial 2021"]
+[Site "Yerevan"]
+[Date "2021.01.13"]
+[Round "5.4"]
+[White "Hayrapetyan, Hovik"]
+[Black "Gharibyan, Mamikon"]
+[Result "1-0"]
+[WhiteElo "2488"]
+[BlackElo "2432"]
+[PlyCount "69"]
+[EventDate "2021.01.09"]
+[EventType "tourn"]
+[EventCountry "ARM"]
+[Tiebreak "Number of wins+Koya+Number of black wins"]
+
+{E54: Nimzo-Indian: Rubinstein: Main Line: 7...dxc4 8 Bxc4} 1. Nf3 d5 2. d4 Nf6
+3. c4 e6 4. Nc3 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O cxd4 8. exd4 dxc4 9. Bxc4 b6 10.
+Bg5 Bb7 11. Qe2 Nbd7 12. Rac1 Bxc3 13. Rxc3 Qb8 14. Bh4 Qf4 {aiming for ...
+Bxf3.} 15. Bg3 {The position is equal.} Qf5 (15... Qe4 16. Rfc1 {1/2-1/2 (16)
+Balashov,Y (2595)-Polugaevsky,L (2600) Toluca de Lerdo 1982}) (15... Qg4 16.
+Bb5 Rfc8 17. Rxc8+ Rxc8 18. Ba6 Bxa6 19. Qxa6 Ra8 20. Rc1 h6 21. h3 Qe4 22. Kh2
+Ne8 23. a4 Kh7 24. b4 Qd5 25. a5 Nd6 26. Bxd6 Qxd6+ 27. Kg1 Qd5 28. Rc7 bxa5
+29. bxa5 Rb8 30. Qd3+ {Georgiev,V (2517)-Viswanadha,K (2404) Las Vegas 2014
+1-0 (54)}) 16. Ne5 {And now Bd3 would win.} Nxe5 17. Bxe5 $146 {Black should
+prevent Rg3.} (17. dxe5 Ne4 18. Re3 Nxg3 19. hxg3 Rfd8 20. f4 h5 21. Rd1 Rac8
+22. b3 Qg4 23. Qxg4 hxg4 24. Red3 Rxd3 25. Rxd3 Rc7 26. Rd2 Be4 27. Kf2 Kf8 28.
+Ke3 Bb7 29. Kf2 Ke7 30. Be2 Bd5 31. Bxg4 Rc1 {Iordachescu,V (2560)-Ibrahimov,R
+(2415) Minsk 2000 1-0 (76)}) 17... Ne4 $2 (17... Rfd8 $11 {and Black has
+nothing to worry.}) 18. Rh3 (18. Re3 $18) 18... Ng5 $2 (18... f6 $1 $14 19. Bc7
+Rfe8) 19. Rh4 Qg6 {( -> ...Nh3+!)} 20. f4 $1 Qe4 21. Qf2 Qc6 22. fxg5 (22. Qe2
+$142 f6 23. Bd6 $1 (23. fxg5 fxe5 24. Bd3 g6 $14)) 22... Qxc4 $18 {[#]} 23. Rf4
+$1 Rac8 {[#]} 24. Bxg7 $1 Kxg7 (24... Ba6) 25. Rxf7+ Rxf7 26. Qxf7+ Kh8 27.
+Qf6+ Kg8 {White must now prevent ...e5.} 28. Qf7+ Kh8 29. Qxb7 Qxd4+ {Endgame
+KQR-KQR} 30. Kh1 Rg8 31. Qe7 Qe5 (31... Qd8 $142 32. Qxe6 Qxg5) 32. h4 Qg3 33.
+Qf6+ Rg7 34. Rd1 Qxh4+ 35. Kg1 1-0
