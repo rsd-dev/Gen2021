@@ -1,0 +1,37 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.16"]
+[Round "1.5"]
+[White "Grandelius, Nils"]
+[Black "Donchenko, Alexander"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2663"]
+[BlackElo "2668"]
+[PlyCount "93"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{C54: Giuoco Piano: 4 c3 Nf6, main lines with 5 d4 and 5 d3} 1. e4 e5 2. Nf3
+Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 a6 7. Re1 Ba7 8. Nbd2 O-O 9. Nf1 {
+The position is equal.} Na5 10. Bb3 Nxb3 11. axb3 c6 $146 (11... Bg4 12. h3
+Bxf3 13. Qxf3 Qe8 14. b4 Qe6 15. Be3 Bxe3 16. Nxe3 c6 17. Qf5 Qxf5 18. Nxf5
+Rad8 19. Rad1 Rfe8 20. Ne3 Kf8 21. f3 d5 22. Kf2 Rd7 23. Ng4 Nxg4+ 24. hxg4
+Red8 25. exd5 Rxd5 26. Ke2 {Anand,V (2767)-Aronian,L (2752) Zagreb 2019 1/2-1/
+2 (41)}) 12. Ng3 h6 13. h3 Be6 14. d4 Re8 15. Be3 d5 16. exd5 exd4 17. Bxd4 (
+17. dxe6 dxe3 18. exf7+ Kxf7 $15) 17... Qxd5 18. Bxf6 Qxd1 19. Raxd1 {[#]
+Threatens to win with Be5.} gxf6 20. b4 (20. Nh5 $16 Bxb3 21. Nxf6+ Kf8 22. Rd7
+(22. Nxe8 Bxd1 23. Rxd1 Rxe8 $11) (22. Rxe8+ Rxe8 23. Nxe8 Bxd1 $11) 22...
+Rxe1+ 23. Nxe1) 20... Red8 $1 $11 21. Ne4 Kg7 22. Nc5 Bxc5 23. bxc5 f5 24. Nd4
+(24. Rd4 $1 $14 {was preferrable.}) 24... Kf6 $1 25. Ra1 a5 26. Ra4 Rd5 $1 27.
+b4 Ra6 $1 28. Nxe6 (28. Rea1 $14) 28... fxe6 $14 {Endgame KRR-KRR} 29. Rea1 Ke5
+30. Re1+ Kf6 31. Rea1 Ke5 (31... e5 $11) 32. Rxa5 (32. f4+ $5 Kf6 33. Rxa5 Rxa5
+34. Rxa5 $14) 32... Rxa5 33. Rxa5 {KR-KR} Ke4 34. Ra7 Rd1+ 35. Kh2 Rd7 36. Ra1
+{Hoping for Re1+.} Rd2 (36... f4 $11 {and Black is okay.}) 37. Re1+ $18 Kd3 (
+37... Kd5 $16) 38. Re3+ ({Much less strong is} 38. Rxe6 $6 Kxc3 39. Rxh6 Kxb4
+$14) 38... Kc4 39. f4 ({Weaker is} 39. Rxe6 Kxc3 40. Rxh6 Kxb4 $14) 39... h5
+40. Kg3 ({Don't play} 40. Rxe6 $6 Kxc3 41. Re5 Kxb4 $16) 40... Rd3 $2 {[#]} (
+40... Rc2 $16) 41. Rxd3 {White is clearly winning.} Kxd3 {KP-KP} 42. Kh4 Ke3
+43. g3 Kf2 44. g4 hxg4 45. hxg4 fxg4 46. Kxg4 Ke3 47. Kg5 1-0
