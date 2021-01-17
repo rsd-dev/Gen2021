@@ -1,0 +1,45 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.17"]
+[Round "2.4"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Grandelius, Nils"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "2743"]
+[BlackElo "2663"]
+[PlyCount "80"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{A30: Symmetrical English: Double Fianchetto and Hedgehog} 1. c4 c5 2. Nf3 Nc6
+3. b3 e5 4. Bb2 d6 5. Nc3 g6 6. g3 Bg7 7. Bg2 Nge7 8. O-O {The position is
+equal.} O-O 9. d3 Rb8 $146 (9... f5 10. Nd2 (10. e3 h6 11. Qe2 g5 12. Nd2 f4
+13. Nd5 Nxd5 14. Bxd5+ Kh8 15. Qh5 Bf5 16. Be4 Qd7 17. Bxf5 Qxf5 18. Ne4 Rad8
+19. gxf4 gxf4 20. Qxf5 Rxf5 21. Bc3 b6 22. a3 d5 23. cxd5 Rxd5 24. Rad1 Rf7 {
+Caletka,R (2337)-Babula,V (2556) Czech Republic 2018 0-1 (39)}) 10... Be6 11.
+Nd5 Qd7 12. a3 Rab8 13. Rb1 b5 14. e3 Bf7 15. Qc2 Nxd5 16. cxd5 Ne7 17. e4 g5
+18. a4 a6 19. axb5 axb5 20. Ra1 fxe4 21. dxe4 Ra8 22. Qd3 Rfb8 23. Bf3 Be8 24.
+Qe2 {Moradiabadi,E (2537)-Ortiz Suarez,I (2551) Greensboro 2019 1/2-1/2}) (9...
+Be6 10. a3 h6 11. Rc1 b6 12. Nd2 d5 13. cxd5 Nxd5 14. b4 Rb8 15. bxc5 bxc5 16.
+Na4 Nd4 17. e3 Nb3 18. Rc2 Nxe3 19. fxe3 Qxd3 20. Ne4 Qxe3+ 21. Kh1 Rfd8 22.
+Qb1 Bd5 23. Re1 Qd3 24. Naxc5 {Maghsoodloo,P (2671)-Xiong,J (2679) chess.com
+INT 2019 0-1 (35)}) (9... h6 10. e3 Be6 11. Qe2 d5 12. a3 b6 13. Rab1 Rc8 14.
+cxd5 Nxd5 15. Nxd5 Bxd5 16. b4 cxb4 17. axb4 b5 18. Bc3 e4 19. dxe4 Bc4 20. Qb2
+Bxc3 21. Qxc3 Bxf1 22. Bxf1 Qe7 23. Bxb5 Qxe4 24. Nd2 {Rahul,S (2410)
+-Koutoukidis,P (2369) Anogia 2019 0-1 (36)}) 10. Ne1 Be6 11. Nd5 Qd7 12. Nc2
+Bh3 13. Qd2 Bxg2 14. Kxg2 f5 15. b4 (15. e4 $15) 15... f4 $1 $17 16. bxc5 dxc5
+17. e4 f3+ 18. Kh1 Nd4 (18... Qh3 $6 19. Rg1 $11) (18... Nxd5 $1 $17 19. cxd5
+Nd4) 19. Nxe7+ $15 Qxe7 20. Ne3 (20. h3 $142) 20... Qd7 $17 21. Bxd4 exd4 ({
+Reject} 21... cxd4 22. Nd5 $11) 22. Nd5 {[#]} Rbe8 ({Black should play} 22...
+Rf7 $1 $17) 23. Rg1 $15 Qg4 24. Qd1 $2 {[#]} (24. Qa5 $15) 24... Re5 $1 $19 25.
+Nf4 g5 26. h3 Qd7 27. Qxf3 Re7 (27... gxf4 28. gxf4 Re7 29. Rg4 $17) 28. Rg2
+Qc7 ({Less strong is} 28... gxf4 29. gxf4 a6 30. f5 $17) 29. Qh5 {Strongly
+threatening Nd5.} gxf4 30. gxf4 Qxf4 31. Qxc5 Qh4 32. Rg3 Kh8 33. Rag1 b6 34.
+Qd5 Qf4 35. c5 (35. R1g2 $142) 35... bxc5 36. Qxc5 Qe5 37. Qc6 (37. Qxe5 $142
+Bxe5 38. Rg5) 37... Ref7 {Black is clearly winning.} 38. Rg5 Qf4 39. e5 Qxf2 {
+White must now prevent ...Qe3.} ({Not} 39... Bxe5 40. Qg2 $11) 40. Qe4 Re7 0-1
+
+
