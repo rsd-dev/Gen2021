@@ -1,0 +1,34 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.18"]
+[Round "3.5"]
+[White "Grandelius, Nils"]
+[Black "Harikrishna, Pentala"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2663"]
+[BlackElo "2732"]
+[PlyCount "76"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{C02: French: Advance Variation} 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3
+Bd7 6. Be2 cxd4 7. cxd4 Bb5 8. O-O Bxe2 9. Qxe2 Nc6 10. Nc3 Nge7 11. Qd3 (11.
+Na4 Qa5 12. b3 Nf5 13. Bb2 Be7 14. Rac1 O-O 15. g4 Nh4 16. Nxh4 Bxh4 17. f4
+Rfc8 18. Bc3 Qd8 19. Nc5 Be7 20. Nxb7 Qb6 21. Nd6 Bxd6 22. exd6 Rd8 23. Kg2
+Rxd6 24. f5 exf5 25. Rxf5 Qb7 {Hracek,Z (2599)-Ivanchuk,V (2710) Jurmala 2016
+1/2-1/2 (53)}) 11... Rc8 $146 (11... Qd8 12. Bg5 h6 13. Nb5 hxg5 14. Nd6+ Kd7
+15. Nxf7 Qe8 16. Nxh8 Qh5 17. Rac1 g4 18. Nd2 Rc8 19. b4 Nf5 20. b5 Ncxd4 21.
+Rxc8 Kxc8 22. Nb3 Nxb3 23. axb3 Kd7 24. b6 axb6 25. Qb5+ Kc7 26. Rc1+ {
+Hendriks,W (2378)-Peng,Z (2403) Amsterdam 2000 1/2-1/2 (33)}) 12. Rd1 h6 {
+The position is equal.} 13. Bd2 $1 Ng6 14. h4 Bb4 ({But not} 14... Qxb2 $2 15.
+h5 $18) 15. Na4 Qc7 16. h5 Nge7 17. Bf4 Qa5 $1 18. b3 {[#] Strongly
+threatening a3.} b5 19. Nb2 {a3! is the strong threat.} Ba3 20. Qe2 O-O 21.
+Rab1 Rc7 22. Nd3 Qb6 23. b4 {And now Rb3 would win.} a5 ({Much weaker is} 23...
+Nxd4 $6 24. Nxd4 Qxd4 25. Be3 $18) 24. bxa5 Nxa5 25. Bc1 (25. g4 $11) 25...
+Bxc1 $17 26. Rdxc1 Rxc1+ 27. Nxc1 Nc4 28. Nb3 Ra8 29. Rc1 $2 (29. Nc1 $17)
+29... Nc6 30. g3 $2 (30. g4) 30... Ra3 $19 31. Kg2 Qa7 {Black is clearly
+winning.} 32. Rc2 Nb4 33. Rc3 Nxa2 34. Rd3 {[#]} Rxb3 $1 35. Rxb3 Nc1 $1 36.
+Qc2 Nxb3 37. Qxb3 Qa4 38. Qb1 b4 0-1
