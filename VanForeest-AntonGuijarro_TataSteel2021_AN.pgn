@@ -1,0 +1,39 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.22"]
+[Round "6.3"]
+[White "Van Foreest, Jorden"]
+[Black "Anton Guijarro, David"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2671"]
+[BlackElo "2679"]
+[PlyCount "73"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{C84: Closed Ruy Lopez: Unusual White 6th moves} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6
+4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. c3 O-O 9. h3 h6 $146 (9... Na5 10.
+Bc2 c5 11. d4 (11. Qe2 Qc7 12. Rd1 h6 13. Nbd2 Re8 14. Nf1 Bf8 15. Ng3 g6 16.
+Be3 Bg7 17. Rac1 Qb7 18. Bb1 Be6 19. Nd2 {1/2-1/2 (19) Radlovacki,J (2345)
+-Yang,H (2368) Kecskemet 2016}) 11... Qc7 12. Qe2 (12. Nbd2 Bd7 13. d5 c4 14.
+Re1 g6 15. Nf1 Nh5 16. Bh6 Ng7 17. Qd2 Nb7 18. Rad1 a5 19. g4 f6 20. Ng3 Nc5
+21. Kh2 Rf7 22. Rg1 Rb8 23. a3 Qb7 24. Nh4 Bf8 25. Ng2 b4 26. axb4 axb4 {
+Garriga Cazorla,P (2403)-Perez Mitjans,O (2455) Roquetas de Mar 2016 1/2-1/2 
+(66)}) 12... Bd7 13. d5 Rfc8 14. b3 c4 15. Bb2 Nb7 16. Na3 a5 17. Rfc1 Rab8 18.
+bxc4 bxc4 19. Nd2 a4 20. Ndxc4 Na5 21. Nxa5 Qxa5 22. Bd3 Qc5 23. Rab1 g6 24.
+Qe3 {Sahidi,S (2300)-Pajeken,J (2273) Bad Blankenburg 2018 0-1 (59)}) (9... Bb7
+10. Nbd2 Re8 11. Ng5 Rf8 12. Re1 d5 13. exd5 Nxd5 14. Ndf3 Qd7 15. d4 exd4 16.
+cxd4 h6 17. Ne4 Rfe8 18. Bd2 Nf6 19. Rc1 Nxe4 20. Rxe4 Bf6 21. Rg4 Kh8 22. Rc5
+Rad8 23. Qc1 Nxd4 24. Nxd4 {Grischuk,A (2767)-So,W (2799) Berlin 2018 1-0 (44)}
+) 10. a4 Bd7 11. Bc2 {The position is equal.} b4 12. Nbd2 Re8 13. a5 Bf8 14.
+Re1 Rb8 15. d4 bxc3 16. bxc3 exd4 17. cxd4 Nb4 18. Bb1 g6 (18... Bb5 $11) 19.
+Ra3 (19. e5 $1 $14) 19... Bg7 (19... c5 $11) 20. Nf1 $16 Rb5 21. Ng3 ({Better
+is} 21. Bf4 $16) 21... Nh5 (21... Nh7 $1 $14) 22. Nxh5 Rxh5 23. d5 $1 c5 {[#]}
+24. Bf4 $1 Bb2 25. Rae3 Qf6 (25... Bb5 $16 {was called for.}) 26. Bg3 $18 c4 $2
+(26... Bb5) 27. Qe2 Bb5 28. e5 Bxe5 29. Nxe5 dxe5 30. Bxe5 Rexe5 31. Rxe5 c3 {
+[#]} 32. Qe3 c2 {And now ...Rxe5 would win.} 33. Rxh5 gxh5 34. Bxc2 ({Weaker is
+} 34. Qg3+ Qg6 $14) 34... Nxc2 35. Qe5 Kg7 36. Re4 Bd3 $2 (36... Qxe5 37. Rxe5
+Nd4) 37. Qg3+ 1-0
