@@ -1,0 +1,48 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.23"]
+[Round "7.7"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Esipenko, Andrey"]
+[Result "0-1"]
+[ECO "E20"]
+[WhiteElo "2705"]
+[BlackElo "2677"]
+[PlyCount "84"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{E20: Nimzo-Indian: 4 g3 and 4 f3} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3
+Be7 6. e4 dxc4 (6... dxe4 7. fxe4 c5 8. d5 exd5 9. exd5 O-O 10. Bf4 Re8 11. Be2
+Bg4 12. Qd2 Nh5 13. Be3 Bd6 14. O-O-O Rxe3 15. Bxg4 Rxc3+ 16. Qxc3 Qg5+ 17. Kb1
+Qxg4 18. Nf3 Nd7 19. g3 a6 20. Rhe1 Nhf6 21. Nd2 {Volkov,S (2645)-Vitiugov,N 
+(2722) St Petersburg 2017 0-1 (32)}) 7. Be3 b5 $146 (7... O-O 8. Bxc4 Nbd7 9.
+Nge2 a6 10. e5 Ne8 11. O-O b5 12. Bd3 Bb7 13. Qc2 g6 14. Ne4 Ng7 15. Rfd1 Nf5
+16. Bf2 Nb6 17. Rac1 Nd5 18. Qd2 Ra7 19. Nc5 Ba8 20. Be4 Bg5 21. f4 Be7 22. Qd3
+{Yakovich,Y (2520)-Tiviakov,S (2500) Cheliabinsk 1990 1-0 (42)}) (7... a6 8.
+Bxc4 b5 9. Bd3 Bb7 10. Nge2 Nbd7 11. b4 c6 12. Qc2 e5 13. Rd1 Qc8 14. O-O exd4
+15. Nxd4 g6 16. Nb3 O-O 17. Qf2 Qc7 18. Rc1 Rac8 19. Rfd1 Rfd8 20. Be2 Qb8 21.
+f4 Bf8 22. e5 {Tsvetkov,A (2323)-Gukesh,D (2543) Sochi 2019 1-0 (52)}) (7...
+Nbd7 8. Bxc4 e5 9. Nge2 O-O 10. O-O a6 11. Ba2 exd4 12. Bxd4 c5 13. Be3 Ne5 14.
+Nf4 b5 15. Qxd8 Rxd8 16. Ncd5 Nxd5 17. Nxd5 Bd6 18. Rad1 Rb8 19. Bg5 Re8 20. f4
+Nc6 21. e5 Bf8 22. Nc7 {Gutman,L (2445)-Mandl,R (2405) Gladenbach 1992 1-0 (49)
+}) (7... c5 8. dxc5 Qc7 9. Qa4+ Nfd7 10. Qxc4 Bxc5 11. b4 Bb6 12. Qxc7 Bxc7 13.
+Rc1 Nc6 14. Nge2 Bb6 15. Kf2 Ke7 16. Na4 Bxe3+ 17. Kxe3 Rd8 18. Nf4 Nde5 19.
+Nd3 Nxd3 20. Bxd3 e5 21. Bc4 {1/2-1/2 (21) Manion,J (2280)-Chow,A (2310)
+Chicago 1994}) 8. Nxb5 Ba6 $1 {Black is slightly better.} 9. a4 c6 10. Na3 Bxa3
+(10... O-O $1 $11 {remains equal.}) 11. Rxa3 $16 Nbd7 12. Ne2 (12. Qc2 $16)
+12... Rb8 $14 13. Ra2 O-O 14. Nc3 Qa5 15. Be2 Rfd8 16. Qc2 (16. O-O $142) 16...
+c5 $11 17. O-O cxd4 18. Bxd4 Nc5 19. Nb5 Rxd4 20. Nxd4 {Nc6 is the strong
+threat.} Nb3 $1 21. Nb5 Bxb5 22. axb5 Qxa2 23. Bxc4 Na1 (23... Qa4 $1 $15 24.
+Qxb3 Qxb3 25. Bxb3 Rxb5) 24. Qc3 Qa4 25. b3 {[#]} (25. Rb1 $11 {keeps the
+balance.}) 25... Nxb3 $1 $17 {Threatens to win with ...Nd2!} 26. Qxb3 (26. Rd1
+$17) 26... Qxb3 $19 27. Bxb3 Rxb5 $17 {Endgame KRB-KRN} 28. Rc1 (28. Bc4 $17
+Rc5 29. Be2) 28... g5 $19 29. Rc3 Kg7 30. Kf2 h5 31. Ke3 (31. Ba4 $142 Rb2+ 32.
+Rc2 Rxc2+ 33. Bxc2) 31... h4 32. g3 h3 33. Bd1 Rb2 34. Be2 {[#]} g4 $1 35. fxg4
+{[#]} Nxe4 $1 36. Ra3 (36. Kxe4 Rxe2+) 36... Ng5 $2 (36... Kf8 $19 {and Black
+stays clearly on top.} 37. g5 Nxg5 38. Rxa7 Ne4 $1) 37. Rxa7 Rb3+ $1 38. Kd4 $2
+{[#]} (38. Bd3 $17 {was worth a try.}) 38... Rb1 $1 39. Ke3 $2 {[#]} (39. Ra2
+Rh1 40. Ba6) 39... Rh1 $1 {Black is clearly winning.} 40. Ra5 Kf6 41. Bf3 Rxh2
+42. Ra1 Rb2 0-1
