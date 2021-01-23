@@ -1,0 +1,37 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.23"]
+[Round "7.5"]
+[White "Giri, Anish"]
+[Black "Grandelius, Nils"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2764"]
+[BlackElo "2663"]
+[PlyCount "77"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{B90: Sicilian Najdorf: Unusual White 6th moves, 6 Be3 Ng4 and 6 Be3 e5} 1. e4
+c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3 Be7 9.
+Qd2 h5 10. Nd5 Nxd5 11. exd5 Bf5 12. Be2 a5 (12... Qc7 13. Rc1 (13. c4 O-O 14.
+O-O Bg6 15. Rac1 b6 16. Kh1 Nd7 17. Rfe1 h4 18. Bf1 a5 19. Na1 Nc5 20. Nc2 Rae8
+21. b3 f5 22. h3 Bf6 23. Rcd1 Qd7 24. Na3 f4 25. Bxc5 bxc5 26. Bd3 e4 27. Bxe4
+Bxe4 {Drygalov,A (2481)-Bocharov,D (2533) St Petersburg 2018 0-1 (57)}) 13...
+a5 14. a4 Nd7 15. Bd3 Bxd3 16. Qxd3 O-O 17. Qb5 Bh4+ 18. g3 Be7 19. O-O f5 20.
+f4 Kh7 21. Nd2 e4 22. Nc4 Bd8 23. Kh1 Rf7 24. c3 Rc8 25. b3 g6 26. Rfd1 Nc5 27.
+Bxc5 {Timman,J (2650)-Topalov,V (2690) Bugojno 1999 1/2-1/2 (32)}) 13. a4 O-O
+$146 {White is slightly better.} (13... Bh4+ 14. g3 Bf6 15. O-O Nd7 16. Bb5 O-O
+17. Rac1 b6 18. Qf2 Nc5 19. h4 g6 20. Nd2 Bg7 21. c3 Nd3 22. Bxd3 Bxd3 23. Rfe1
+Qd7 24. b3 b5 25. axb5 Qxb5 26. c4 Qb7 27. Ra1 a4 28. bxa4 {Perunovic,M (2319)
+-Colovic,A (2423) Lazarevac 1999 0-1 (38)}) 14. O-O Nd7 15. f4 exf4 16. Bxf4
+Rc8 17. c3 Nf6 $1 18. Be3 Be4 19. Bd4 $1 Nxd5 20. Bf3 (20. Bxh5 {feels hotter.}
+Nf6 21. Be2 d5 22. Bb5 Bg6 23. Qe3) 20... Bg5 21. Qe2 Bxf3 22. Qxf3 Nf6 23. Qf5
+({Of course not} 23. Qxb7 Rb8 $17) 23... Ng4 $1 {...Be3+ is the strong threat.}
+24. Qxa5 Re8 $1 25. Qxd8 Bxd8 26. Rfe1 $36 {White has the initiative.} Ne5 27.
+Nd2 Re6 28. Red1 Kf8 29. b4 Nc6 $1 30. Bf2 Ne5 31. a5 Rxc3 {[#]} (31... Ng4 $1
+$11) 32. b5 $1 $16 Ng4 33. Bd4 Rd3 (33... Rc8 $14) 34. Nc4 $18 Rxd4 (34...
+Rxd1+ $16 {was worth a try.} 35. Rxd1 d5) 35. Rxd4 Bf6 {[#]} 36. Rdd1 d5 37.
+Nb6 Ne3 $2 (37... Bxa1 38. Rxa1 Ne5) 38. Nd7+ Ke7 39. Nxf6 1-0
