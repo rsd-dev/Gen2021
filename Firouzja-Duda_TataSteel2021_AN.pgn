@@ -1,0 +1,50 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.23"]
+[Round "7.6"]
+[White "Firouzja, Alireza"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2749"]
+[BlackElo "2743"]
+[PlyCount "111"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{D02: 1 d4 d5 2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} 1. d4
+Nf6 2. Nf3 d5 3. Bf4 e6 4. e3 Bd6 5. Nbd2 O-O 6. Ne5 c5 7. c3 Qc7 (7... Nc6 8.
+Nxc6 bxc6 9. dxc5 Bxc5 10. Bd3 Bd6 11. Bg5 h6 12. Bh4 a5 13. O-O Be7 14. e4 Ba6
+15. Bxa6 Rxa6 16. Qe2 Rb6 17. b3 a4 18. b4 Nxe4 19. Bxe7 Qxe7 20. Nxe4 dxe4 21.
+Qxe4 c5 22. a3 {Mamedyarov,S (2804)-Khachiyan,M (2522) chess.com INT 2018 1/
+2-1/2 (54)}) 8. Bd3 b6 $146 (8... Nc6 9. Ndf3 (9. Nxc6 Qxc6 10. Bg5 Ne4 11.
+Bxe4 dxe4 12. Nc4 cxd4 13. Nxd6 Qxd6 14. cxd4 Qb4+ 15. Qd2 Qb5 16. Bf4 Bd7 17.
+f3 Bc6 18. Kf2 Rfd8 19. Rac1 e5 20. Bxe5 Qxe5 {0-1 (20) Ye,R (2461)-Xu,Y (2539)
+Shenzhen 2017}) 9... Ne4 10. O-O f6 11. Nxc6 Bxf4 12. Ne7+ (12. exf4 bxc6 13.
+g3 Qb6 14. Bxe4 dxe4 15. dxc5 Qxc5 16. Qd4 Qf5 17. Nh4 Qd5 18. Qa4 e3 19. fxe3
+Qd2 20. Rf2 Qxe3 21. Qxc6 Rb8 22. Ng2 Qd3 23. Re1 Rb6 24. Qe4 Qd7 25. c4 Rd6
+26. c5 Rd4 {Gajewski,G (2613)-Grigorov,G (2501) Riga 2019 1/2-1/2 (51)}) 12...
+Qxe7 13. exf4 Qd6 14. Qc1 b6 15. Qe3 Bb7 16. Rad1 c4 17. Bxe4 dxe4 18. Nd2 Qc6
+19. Rde1 Qa4 20. Ra1 Qc6 21. Rfe1 f5 22. f3 exf3 23. Nxf3 {Polgar,Z (2475)
+-Vidarsson,J (2305) Reykjavik 1988 1-0 (64)}) 9. h4 {The position is equal.}
+Ba6 10. Bxa6 Nxa6 11. h5 Nd7 (11... h6 $11) 12. Ndf3 f6 13. Nd3 cxd4 ({Better
+is} 13... c4 $14) 14. Nxd4 $16 e5 15. Ne6 Qc4 16. Nxf8 Bxf8 (16... Ndc5 $16 17.
+Nxc5 Nxc5) 17. Bg3 $18 Ndc5 18. Nxc5 (18. Nc1 $1 $18 {and White stays clearly
+on top.}) 18... Nxc5 $16 19. Rh4 e4 20. Qe2 Nd3+ 21. Kf1 f5 22. Kg1 Rc8 (22...
+Rd8 $142) 23. Rh1 Kf7 24. Kh2 Be7 25. a3 b5 (25... Ke6 $142) 26. Rad1 Ke6 27.
+Rxd3 (27. Rd2 $16) 27... Qxd3 $11 28. Qxd3 exd3 29. Rd1 Bxa3 30. bxa3 Rxc3 {
+Endgame KRB-KR} 31. Kg1 Rxa3 {And now ...b4 would win.} 32. Kf1 b4 {Threatens
+to win with ...b3.} 33. Ke1 b3 34. Kd2 {Hoping for Kc3.} (34. Rxd3 $2 b2 $1 $19
+) 34... b2 35. Rb1 Rb3 {Strongly threatening ...a5.} 36. Bc7 {aiming for f4.}
+d4 $1 37. exd4 (37. f4 $1 $14) 37... Kd5 38. f4 g6 39. h6 Kxd4 40. Be5+ Ke4 41.
+Bxb2 {With the idea Re1+.} Rb7 42. Re1+ Kxf4 43. Be5+ Kg4 44. Kxd3 g5 45. Bd4
+Rd7 46. Re6 Kg3 47. Rf6 Kg4 (47... g4 $11 {keeps the balance.}) 48. Ra6 $16 f4
+$2 (48... Re7 $16 49. Bf6 (49. Rxa7 Rxa7 50. Bxa7 Kh5 $11) (49. Bxa7 Kg3 $16)
+49... Rd7+ 50. Kc3 Kh5) 49. Ke4 $1 $18 (49. Rxa7 Rxa7 50. Bxa7 Kh5 $11) 49...
+Re7+ {[#]} 50. Be5 $1 Rb7 (50... Kg3 $142 51. Rf6 a5) 51. Bf6 Rb4+ {[#]} 52.
+Bd4 $1 Kh5 (52... Rb7 $142 53. Ke5 (53. Bxa7 Rb2 $14) (53. Rxa7 Rxa7 54. Bxa7
+Kh5 $14) 53... Rb5+ 54. Ke6 Kh5) 53. Rd6 Ra4 (53... Rb5 $142 54. Be5 (54. Bxa7
+Rb2 $16) 54... Rb6) 54. Kf5 {White is clearly winning.} Ra2 55. Bf6 Kxh6 56.
+Rd1 1-0
