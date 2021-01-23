@@ -1,0 +1,42 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.23"]
+[Round "7.4"]
+[White "Caruana, Fabiano"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2823"]
+[BlackElo "2784"]
+[PlyCount "73"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{B97: Sicilian Najdorf: Poisoned Pawn} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4
+Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 9. Rb1 Qa3 10. Be2 ({White
+should play} 10. f5 $11) 10... Nc6 ({Black should try} 10... Nbd7 $15) 11. Nxc6
+$11 bxc6 12. e5 {Threatens to win with Rb3.} (12. O-O Qa5 (12... Be7 13. e5
+dxe5 14. fxe5 Qc5+ 15. Kh1 Qxe5 16. Bf3 O-O 17. Bf4 Qc5 18. Na4 Qa3 19. Bxc6
+Ra7 20. Rb3 Qxa2 21. Qc3 Bd7 22. Rb2 Qa3 23. Rb3 Qa2 24. Rb2 Qa3 25. Rb3 Qa2 {
+1/2-1/2 (25) Horvath,A (2325)-Szeberenyi,A (2354) Hungary 2012}) 13. Bf3 d5 14.
+exd5 cxd5 15. f5 Bb4 16. Rb3 h6 17. Bxf6 gxf6 18. Kh1 Ra7 19. Qd4 Rb7 20. fxe6
+fxe6 21. Bxd5 Bxc3 22. Rxc3 Rc7 23. Bc6+ Bd7 24. Bxd7+ Rxd7 25. Qxf6 {1-0 (25)
+Li,C (2529)-Sandipan,C (2563) Cebu 2007}) 12... Nd5 {White is slightly better.}
+13. Nxd5 (13. Ne4 $1 $14) 13... exd5 $146 {[#]} (13... cxd5 $11 14. Rb3 (14.
+O-O h6 15. Bh4 dxe5 16. fxe5 Bc5+ 17. Kh1 Be3 18. Qe1 Bd4 19. Rb3 Qc5 20. Rbf3
+Ra7 21. c3 Bxe5 22. Bf2 d4 23. cxd4 Bxd4 24. Qd2 Rd7 25. Rc1 Bxf2 {1/2-1/2 (25)
+Martin Del Campo C,R (2465)-Herrera,I (2450) Santa Clara 1997}) 14... Qa4) 14.
+e6 $1 $18 f6 (14... fxe6 15. O-O $15) (14... d4 {was called for.} 15. O-O (15.
+Qxd4 Bxe6 16. O-O Qc5 $16) 15... h6) 15. Bh5+ Kd8 {[#]} 16. Bh4 d4 (16... Qxa2
+17. O-O $18) 17. Bf2 Qc3 (17... Bxe6 18. Bxd4 d5 19. O-O $16) 18. f5 ({Weaker
+is} 18. Bxd4 Qxd2+ 19. Kxd2 Bxe6 $16) 18... Qxd2+ 19. Kxd2 c5 20. Bf3 Ra7 21.
+g4 (21. Rb6 $18 {has better winning chances.}) 21... g6 $2 (21... Kc7 $16) 22.
+Bh4 Be7 23. Rb6 h5 {Strongly threatening ...hxg4.} 24. h3 Ke8 (24... hxg4 {
+might work better.} 25. hxg4 Rh6) 25. Bg3 Rc7 (25... hxg4 $142 26. hxg4 Rxh1
+27. Bc6+ (27. Bxh1 gxf5 28. gxf5 a5 $16) 27... Kf8 28. Bxh1 a5) 26. Kd3 {
+White is clearly winning.} hxg4 27. hxg4 Rxh1 28. Bxh1 gxf5 29. gxf5 Bf8 30.
+Kc4 Rh7 31. Be4 Be7 32. Bxd6 Bxd6 33. Rxd6 Bb7 34. Bxb7 Rxb7 35. Rxa6 Rb2 36.
+Kxc5 Rxc2+ 37. Kxd4 1-0
+
