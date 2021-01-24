@@ -1,0 +1,49 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.24"]
+[Round "8.3"]
+[White "Harikrishna, Pentala"]
+[Black "Firouzja, Alireza"]
+[Result "0-1"]
+[ECO "D10"]
+[WhiteElo "2732"]
+[BlackElo "2749"]
+[PlyCount "112"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{D10: Slav Defence: 3 cxd5 (without early Nf3) and 3 Nc3} 1. d4 d5 2. c4 c6 3.
+cxd5 cxd5 4. Bf4 Nc6 5. e3 Bf5 (5... Nf6 $11 {remains equal.}) 6. Bb5 (6. Qb3
+$1 $16) (6. Nc3 e6 7. Qb3 Qd7 8. Nf3 f6 9. Rc1 g5 10. Bg3 Bg6 11. Bb5 Nge7 12.
+Na4 Nf5 13. Be5 Kf7 14. Nxg5+ Kg7 15. Nf3 fxe5 16. Bxc6 bxc6 17. Nxe5 Qc7 18.
+Rxc6 Qa5+ 19. Ke2 Be7 20. Nc5 Bxc5 {Yu,J (2341)-Checa,N (2506) Saint Louis
+2019 0-1 (55)}) 6... e6 7. Nc3 Nge7 $146 (7... Rc8 8. Nf3 Bb4 (8... Nge7 9. h3
+f6 10. O-O a6 11. Be2 g5 12. Bh2 h5 13. Ne1 Bg6 14. Nd3 Nf5 15. Nc5 Bxc5 16.
+dxc5 d4 17. Ne4 dxe3 18. Nd6+ Nxd6 19. Bxd6 exf2+ 20. Rxf2 Rh7 21. Qb3 Nd4 22.
+Qa4+ Nc6 23. Qc4 {Studer,N (2462)-Bogner,S (2556) Flims 2016 1-0 (50)}) 9. Qb3
+Bxc3+ 10. Qxc3 a6 11. Be2 Nf6 12. Nd2 O-O 13. O-O a5 14. Rac1 Nb4 15. Qa3 b6
+16. Rxc8 Qxc8 17. Bd6 Rd8 18. Bxb4 axb4 19. Qxb4 Qc7 20. Nb3 Rc8 21. Ba6 Ra8
+22. Rc1 {Ivanchuk,V (2714)-Saric,I (2692) Zagreb 2018 1/2-1/2 (68)}) 8. Rc1 {
+White is slightly better.} a6 9. Be2 f6 10. g4 Bg6 11. Nf3 Bf7 12. Bg3 (12. O-O
+$14) 12... h5 $1 $11 13. g5 Ng6 (13... h4 $1 $11 14. Nxh4 (14. Bxh4 Nf5 $11)
+14... fxg5) 14. gxf6 (14. h4 $1 $16) 14... h4 15. fxg7 Bxg7 16. Be5 Ngxe5 17.
+dxe5 Nxe5 18. Nd4 Rc8 19. O-O Nc6 $1 20. Bg4 (20. Nf3 $15) 20... Nxd4 $17 21.
+exd4 Rc6 22. Ne2 $1 h3 23. Rc3 Rh4 24. Rg3 Qc7 25. Re1 Kf8 (25... Bh6 $11) 26.
+Qd3 (26. Bxh3 $14 Bf6 27. Bg4) 26... e5 $11 27. Qa3+ Qd6 28. Qxd6+ Rxd6 29.
+Bxh3 exd4 30. Nc1 Rdh6 (30... Re4 $5 31. Nd3 Rxe1+ 32. Nxe1 Be5 $15) 31. Bg2
+Rxh2 32. Nd3 R2h5 33. f4 (33. Nc5 $11) 33... Rc6 $17 34. Bf3 Rhh6 35. Rg2 Rhg6
+(35... Rh3 $17 36. Rf1 Rch6) 36. f5 Rh6 37. Nf4 $2 {[#]} ({White should play} 
+37. Rh2 $15) 37... d3 $1 $19 {Threatens to win with ...Bd4+.} 38. Nxd3 Bd4+ 39.
+Nf2 Rc2 40. Kf1 Rxb2 41. Re2 Rb1+ 42. Re1 Rhb6 (42... Rb2 $142 43. Re2 Rb1+ 44.
+Re1 Rb2) 43. Nd3 Bc3 44. Rxb1 Rxb1+ 45. Kf2 Ke7 (45... a5 $19 46. Kg3 b5) 46.
+Rh2 Kf6 ({Black should try} 46... Ra1 47. Kg3 Bg8) 47. Ke3 $17 Kg5 ({Better is
+} 47... Rb5 $19 {Hoping for ...Ra5.} 48. Kf4 Be5+ $1 49. Nxe5 Rb4+ 50. Ke3 Kxe5
+) 48. Nc5 $2 (48. Rh7 $11 {and White is okay.} d4+ 49. Kf2 Bxa2 50. Bxb7) 48...
+Rb5 ({Resist} 48... Kxf5 49. Bxd5 $1 Bxd5 50. Rh5+ Kg4 51. Rxd5 $15) (48... b6
+$1 $19 49. Nd7 Kxf5) 49. Rh7 {[#]} Bg8 $1 50. Rc7 (50. Rh5+ $17 Kf6 51. Ne6)
+50... Kxf5 $19 51. Nxb7 $2 (51. Kd3 b6 52. Rc8 Rxc5 53. Rxg8) 51... d4+ 52. Kf2
+$2 (52. Kd3 Rb2 53. Rxc3 dxc3 54. Kxc3 Rxa2 55. Bh5) 52... Rb2+ 53. Be2 Kf4 54.
+Nd6 Bd2 55. Kf1 Rb1+ 56. Bd1 d3 0-1
+
