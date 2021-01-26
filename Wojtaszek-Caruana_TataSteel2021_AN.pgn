@@ -1,0 +1,36 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.26"]
+[Round "9.4"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "2705"]
+[BlackElo "2823"]
+[PlyCount "78"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{E94: King's Indian: Classical: 6 Be2 e5 7 0-0: Various Black 7th moves} 1. c4
+Nf6 2. Nf3 d6 3. d4 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 e5 7. O-O Bg4 8. Be3 Bxf3 9.
+Bxf3 ({Much worse is} 9. gxf3 Nh5 $15) 9... exd4 $1 10. Bxd4 {The position is
+equal.} Nc6 11. Be3 $1 Re8 $146 (11... Nd7 12. Qd2 Nc5 13. Rad1 Ne6 14. g3 Ncd4
+15. Bg2 c6 16. f4 f5 17. Qf2 Qf6 18. Rd2 Rab8 19. Rfd1 c5 20. Qf1 Kh8 21. Qd3
+a6 22. a4 Qd8 23. Bf2 Qa5 24. exf5 gxf5 25. Re1 Qd8 26. Re3 {Nguyen,A (2495)
+-Karatorossian,D (2395) Budapest 1998 1/2-1/2 (32)}) 12. Qd2 Nd7 $1 13. Rad1
+Bxc3 14. Qxc3 Qf6 $1 15. Qc1 Nc5 16. Qb1 Qe6 (16... a5 $11) 17. Rfe1 (17. b4
+$14 Nxe4 18. Rc1) 17... Qxc4 $11 18. b3 Qc3 19. Bd2 Qf6 20. Bc1 h5 21. Bb2 Ne5
+22. Be2 h4 23. Qc1 {Threatens to win with f4.} g5 ({But not} 23... Nxe4 $2 24.
+f4 $18) 24. Bb5 (24. b4 $11 Ne6 25. Bg4) 24... Re7 25. Re3 Qg6 26. Be2 (26.
+Bxe5 $11 {is superior.} Rxe5 27. b4) 26... Rae8 $15 27. Qc2 (27. h3 $1 $11)
+27... Ne6 (27... g4 $1 $17) 28. f3 $2 (28. h3 $1 $15) 28... Nf4 $1 $19 29. Bf1
+c6 30. Qf2 Re6 31. Rc3 {[#]} (31. h3 $17) 31... d5 $1 32. g3 (32. Bc1 $142 dxe4
+33. Bxf4 gxf4 34. fxe4) 32... hxg3 33. hxg3 dxe4 $2 (33... g4 34. Bc1 Nh3+ 35.
+Bxh3 gxh3) 34. gxf4 $2 (34. fxe4 Nh5 35. Qf5) 34... gxf4+ {Black is clearly
+winning.} 35. Qg2 exf3 ({And not} 35... Nxf3+ {[#]} 36. Rxf3 $1 exf3 37. Qxg6+
+fxg6 38. Bc4 $11) 36. Qxg6+ Rxg6+ 37. Kh1 f2 38. Bh3 {[#]} Nc4 $1 39. Rxc4 (39.
+bxc4 Re1+) 39... Re1+ 0-1
+
