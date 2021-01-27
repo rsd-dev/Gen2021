@@ -1,0 +1,36 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.27"]
+[Round "10.5"]
+[White "Giri, Anish"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2764"]
+[BlackElo "2705"]
+[PlyCount "97"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{D02: 1 d4 d5 2 Nf3 sidelines, including 2...Nf6 3 g3 and 2...Nf6 3 Bf4} 1. d4
+Nf6 2. Bf4 d5 3. e3 c5 4. Nf3 Nc6 5. Nbd2 Bg4 6. c3 e6 7. Qb3 Qc8 8. h3 Bh5 9.
+Be2 {White is slightly better.} Be7 10. O-O O-O 11. Qd1 $146 (11. Rfe1 a6 12.
+Ne5 Bxe2 13. Rxe2 Nd7 14. Ndf3 Ndxe5 15. Nxe5 b5 16. a3 Rd8 17. Bg3 Nxe5 18.
+Bxe5 Qc6 19. Rae1 Bf8 20. e4 Rac8 21. exd5 Rxd5 22. dxc5 Bxc5 23. Qc2 f6 24.
+Bg3 e5 25. Kh1 Rcd8 {Hesse,P (2355)-Boensch,U (2445) Jueterbog 1985 0-1 (62)})
+11... Nd7 12. Re1 Qd8 13. dxc5 Nxc5 14. b4 Nd7 15. a3 Nb6 16. Rc1 f6 17. e4 e5
+(17... dxe4 $11 18. Nxe4 Qxd1 19. Rexd1 (19. Rcxd1 Bg6 $11) 19... f5) 18. Be3
+Bf7 19. Bxb6 axb6 20. exd5 Bxd5 21. a4 f5 {next ...e4 is good for Black.} 22.
+b5 e4 23. bxc6 exf3 24. Bxf3 bxc6 25. Bxd5+ cxd5 26. Nf3 Bf6 27. Re6 Kh8 28.
+Qb3 ({Better is} 28. Nd4 $14) 28... Qd7 $11 29. Rxb6 Rxa4 30. Rd1 Raa8 31. Rxd5
+(31. Rb5 $14) 31... Qc7 32. g3 Qxc3 {Strongly threatening ...Ra1+.} 33. Qxc3
+Bxc3 34. h4 Kg8 35. Rb7 Rad8 36. Rc5 Rc8 37. Rd5 Rcd8 38. Rdb5 Rd6 39. Rc7 Ba1
+40. Kg2 Ra6 (40... h5 $11 {feels stronger.}) 41. h5 $14 Ra2 (41... Rh6 $11) 42.
+Rd5 (42. Rd7 $1 $16) 42... Ra6 43. Nh4 g6 44. h6 {White wants to play Nf3.} f4
+(44... Raa8 $11) 45. g4 $1 $16 f3+ 46. Kg3 (46. Kh3 $1 $14) 46... Rb6 {[#]} (
+46... Rd6 $1 $11 {remains equal.} 47. Rcc5 Bd4) 47. Rcd7 $1 ({Wrong is} 47.
+Nxf3 $2 Rb3 $19) 47... Rb3 48. g5 {Rxh7! is the strong threat.} Bb2 $2 {[#]} (
+48... Rf7 $16) 49. Rxh7 1-0
+
