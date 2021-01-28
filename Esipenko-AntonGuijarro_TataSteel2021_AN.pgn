@@ -1,0 +1,46 @@
+[Event "83rd Tata Steel Masters 2021"]
+[Site "Wijk aan Zee"]
+[Date "2021.01.27"]
+[Round "10.3"]
+[White "Esipenko, Andrey"]
+[Black "Anton Guijarro, David"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2677"]
+[BlackElo "2679"]
+[PlyCount "111"]
+[EventDate "2021.01.16"]
+[EventType "tourn"]
+[EventCountry "NED"]
+[Tiebreak "Koya+Number of wins"]
+
+{C84: Closed Ruy Lopez: Unusual White 6th moves} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6
+4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. Bd2 (8. a3 O-O 9. Nc3 Be6 10. Nd5
+Nd4 11. Nxd4 exd4 12. Nxf6+ Bxf6 13. Bxe6 fxe6 14. a4 c5 15. Qg4 Qd7 16. axb5
+axb5 17. Bd2 c4 18. Bb4 Ra4 19. Rxa4 bxa4 20. dxc4 Rc8 21. Qg3 Rxc4 22. Bxd6
+Rxc2 {Anand,V (2783)-Svidler,P (2747) Paris/St Petersburg 2013 1/2-1/2 (35)})
+8... Bg4 $146 (8... O-O 9. h3 Be6 (9... Rb8 10. c3 Na5 11. Bc2 c5 12. d4 Nd7
+13. b3 exd4 14. cxd4 Nc6 15. Be3 Bf6 16. Nc3 cxd4 17. Nxd4 Nxd4 18. Bxd4 Bb7
+19. Rc1 Rc8 20. Ne2 Re8 21. Ng3 g6 22. Bxf6 Qxf6 23. Bb1 Qe5 24. Qd2 {Fedoseev,
+V (2680)-Esipenko,A (2611) Poikovsky 2019 1-0 (79)}) (9... Bb7 10. Re1 Nb8 11.
+a3 Nbd7 12. Nc3 Re8 13. Ba2 Bf8 14. g4 Nc5 15. Ng5 Ne6 16. Nxe6 fxe6 17. g5 Nd7
+18. Qg4 Qe7 19. h4 g6 20. Re3 Bg7 21. h5 gxh5 22. Qxh5 Nf8 23. Rh3 c6 24. Ne2 {
+Van Foreest,J (2626)-Arjun,K (2482) Zuerich 2019 1-0 (47)}) 10. Nc3 Na5 11.
+Bxe6 fxe6 12. Ne2 Nc6 13. c3 Qd7 14. Ng3 d5 15. Qe2 Bd6 16. d4 dxe4 17. Nxe4
+exd4 18. cxd4 Rae8 19. Rfe1 Nxe4 20. Qxe4 Rf5 21. Rac1 Rd5 22. g3 Bf8 23. Bf4 {
+Ponomariov,R (2675)-Moreno Ruiz,J (2478) Linares 2019 1-0 (42)}) 9. c3 Bh5 10.
+Re1 {White has an edge.} Na5 11. Bc2 c5 12. h3 O-O 13. Bc1 Nc6 14. Nbd2 d5 15.
+Nf1 d4 16. Ng3 Bg6 17. Bd2 Rc8 18. Rc1 Re8 19. Qe2 (19. cxd4 $142 exd4 20. Ne2)
+19... Bf8 $11 20. Qf1 Qd6 ({Black should play} 20... h6 $15) 21. Rcd1 (21. cxd4
+$11 Nxd4 22. Nxd4 Qxd4 23. Bc3) 21... Qd7 (21... Nd7 $15) 22. Nh4 Qd8 23. Ngf5
+Nd7 24. Qe2 Qf6 25. Rc1 Nb6 26. c4 (26. Qf3 $15) 26... bxc4 $17 27. dxc4 Rb8
+28. g3 Nb4 (28... a5 $17) 29. Bb1 (29. Bxb4 $11 {was the only way to keep the
+balance.} cxb4 30. c5 Bxf5 31. Nxf5 Bxc5 32. Bb3) 29... Nc8 (29... a5 $17) 30.
+Nxg6 $15 hxg6 31. Nh4 Qe6 32. Kg2 Nd6 33. Nf3 (33. a3 $5 Nc6 34. b4 $15) 33...
+Be7 34. a3 Nc6 35. b4 cxb4 $2 (35... Rbc8 $1 $14) 36. c5 $18 Nb5 {[#]
+Threatens to win with ...b3.} 37. axb4 Bf6 38. Bd3 Nc3 (38... Qe7 {was called
+for.} 39. Bc4 Qd7) 39. Bxc3 dxc3 40. Bc4 Qe7 41. Rxc3 Rxb4 42. Bd5 {White is
+clearly winning.} Nd4 43. Qxa6 Qc7 44. Nxd4 exd4 45. Rc2 g5 46. Qd3 Be5 47. Ra1
+Qe7 48. Ra6 Rf8 49. c6 Rbb8 50. Rca2 Rbc8 51. Ra7 Rc7 52. Rb7 g6 53. Qd2 Rfc8
+54. Rxc7 Rxc7 {[#]} 55. h4 $1 gxh4 56. Qh6 1-0
+
